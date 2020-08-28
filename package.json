@@ -1,9 +1,11 @@
 {
-  "name": "cameroun",
+  "name": "totoa",
+  "homepage": " https://hermann-237.github.io/totoa/",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
+    "deploy":"gh-pages -d scr",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
