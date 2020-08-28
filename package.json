@@ -5,7 +5,7 @@
   "description": "",
   "main": "index.html",
   "scripts": {
-    "deploy":"gh-pages -d scr",
+    "deploy":"gh-pages -d src",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
